@@ -1,16 +1,23 @@
-## Hi there 👋
+# short about
 
-<!--
-**0x177/0x177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+16 YO, based in Iraq (unfortunately), "independent researcher", all research on [codeberg](https://codeberg.org/0x177). check out my [webpage](0x177.codeberg.page) too
 
-Here are some ideas to get you started:
+## quick summary of my most ✨*glamorous*✨ work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [rqism](https://codeberg.org/0x177/rqism): multi backend quantum circuit simulator, rust based, 20 qubit GHZ in 44 microseconds (720x faster than cirq)
+- [thimni](https://codeberg.org/0x177/thimni): novel real-time SDF collision algorithm with 2d/3d examples and a destructable fractal demo, w/ [pdf](https://0x177.codeberg.page/thimni.pdf)
+- [codenamed SQ-SVM](https://0x177.codeberg.page/qsvm_pdf.html): highly critical analysis of a 2019 quantum machine learning paper with code + pdf
+- [LSNN](https://0x177.codeberg.page/snn.html): a work-in-progress (hopefully MVP in a few days) extremely cache friendly spiking neural network by mimicing limitations of (the overwhelming majority) of natural synapses (the rest of the synapses are important though so an extension is needed to cover them)
+
+## contacts
+feel free to contact me whenever, i am incredibly non-busy
+
+email: kmalalamry8@protonmail.com
+
+discord: laxative2009
+
+## a more elaborate about section, for whom it may concern
+I am passionate about general sciences, and right now my focus is on computer science in general, and specifically quantum computing and neuromorphic artifical intelligence, and SDFs.
+I only plan on using github for contributions, I prefer having my own repos on codeberg. I also make [games](https://0x177.itch.io), but they kinda suck. Current goal is looking
+for an alternate path of education (because Iraq) so I can engage with actual academia in the future. My tech stack consists almost entirely of rust, but I am willing to *tolerate* coding in python and julia
+because scientific programming is like that.

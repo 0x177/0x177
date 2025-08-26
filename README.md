@@ -10,7 +10,7 @@
 - [LSNN](https://0x177.codeberg.page/snn.html): a work-in-progress (hopefully MVP in a few days) extremely cache friendly spiking neural network by mimicing limitations of (the overwhelming majority) of natural synapses (the rest of the synapses are important though so an extension is needed to cover them)
 
 ## contacts
-feel free to contact me whenever, i am incredibly non-busy
+feel free to contact me whenever, i am eager to connect (and i am incredibly non-busy, will probably reply instantly)
 
 email: kmalalamry8@protonmail.com
 
@@ -18,6 +18,8 @@ discord: laxative2009
 
 ## a more elaborate about section, for whom it may concern
 I am passionate about general sciences, and right now my focus is on computer science in general, and specifically quantum computing and neuromorphic artifical intelligence, and SDFs.
-I only plan on using github for contributions, I prefer having my own repos on codeberg. I also make [games](https://0x177.itch.io), but they kinda suck. Current goal is looking
-for an alternate path of education (because Iraq) so I can engage with actual academia in the future. My tech stack consists almost entirely of rust, but I am willing to *tolerate* coding in python and julia
-because scientific programming is like that.
+I only plan on using github for contributions, I prefer having my own repos on codeberg. I also make [games](https://0x177.itch.io), but they kinda suck. 
+
+Current goal is looking for an alternate path of education (because Iraq) so I can engage with actual academia in the future
+
+My tech stack consists almost entirely of rust, but I am willing to *tolerate* coding in python and julia because scientific programming is like that.

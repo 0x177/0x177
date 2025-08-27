@@ -7,7 +7,7 @@
 - [rqism](https://codeberg.org/0x177/rqism): multi backend quantum circuit simulator, rust based, 20 qubit GHZ in 44 microseconds (720x faster than cirq)
 - [thimni](https://codeberg.org/0x177/thimni): novel real-time SDF collision algorithm with 2d/3d examples and a destructable fractal demo, w/ [pdf](https://0x177.codeberg.page/thimni.pdf)
 - [codenamed SQ-SVM](https://0x177.codeberg.page/qsvm_pdf.html): highly critical analysis of a 2019 quantum machine learning paper with code + pdf
-- [LSNN](https://0x177.codeberg.page/snn.html): a work-in-progress (hopefully MVP in a few days) extremely cache friendly spiking neural network by mimicing limitations of (the overwhelming majority) of natural synapses (the rest of the synapses are important though so an extension is needed to cover them)
+- [LSNN](https://0x177.codeberg.page/snn.html): extremely cache friendly spiking neural network by mimicing limitations of (the overwhelming majority) of natural synapses (the rest of the synapses are important though so an extension is needed to cover them)
 
 ## contacts
 feel free to contact me whenever, i am eager to connect (and i am incredibly non-busy, will probably reply instantly)

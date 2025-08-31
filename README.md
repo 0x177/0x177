@@ -1,6 +1,6 @@
 # short about
 
-16 YO, based in Iraq (unfortunately), "independent researcher", all research on [codeberg](https://codeberg.org/0x177). check out my [webpage](https://0x177.codeberg.page) too
+16 YO, based in Iraq (unfortunately), "independent researcher", all of my own repos are on [codeberg](https://codeberg.org/0x177). check out my [webpage](https://0x177.codeberg.page) too
 
 ## quick summary of my most ✨*glamorous*✨ work
 

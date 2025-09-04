@@ -20,6 +20,4 @@ discord: laxative2009
 I am passionate about general sciences, and right now my focus is on computer science in general, and specifically quantum computing and neuromorphic artifical intelligence, and SDFs.
 I only plan on using github for contributions, I prefer having my own repos on codeberg. I also make [games](https://0x177.itch.io), but they kinda suck. 
 
-Current goal is looking for an alternate path of education (because Iraq) so I can engage with actual academia in the future (or at least continue my own work)
-
 My tech stack consists almost entirely of rust, but I am willing to *tolerate* coding in python and julia because scientific programming is like that.
